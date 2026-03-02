@@ -1,2 +1,0 @@
-# CloudMaven-Training
-Internship training
